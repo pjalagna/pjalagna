@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
             <li> --- screens and forms 
             <li> --- web services 
             <li> --- data diagrams 
+            <li> --- process diagrams / use case diagrams 
         </ul>
     </ul>
     <li> - 📫 How to reach me PJAlagna@Gmail.com put "github" in the subject
